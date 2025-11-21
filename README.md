@@ -1,7 +1,7 @@
 # Aqua Protocol
 
 [![Github Release](https://img.shields.io/github/v/tag/1inch/aqua?sort=semver&label=github)](https://github.com/1inch/aqua/releases/latest)
-[![CI](https://github.com/1inch/aqua/actions/workflows/ci.yml/badge.svg)](https://github.com/1inch/aqua/actions/workflows/ci.yml)
+[![CI](https://github.com/badge/aqua/actions/workflows/ci.yml/badge.svg)](https://github.com/1inch/aqua/actions/workflows/ci.yml)
 [![Coverage](https://img.shields.io/badge/Coverage-61.54%25-yellow)](https://github.com/1inch/aqua)
 [![Tests](https://img.shields.io/github/actions/workflow/status/1inch/aqua/ci.yml?branch=main&label=tests)](https://github.com/1inch/aqua/actions)
 [![npm](https://img.shields.io/npm/v/@1inch/aqua.svg)](https://www.npmjs.com/package/@1inch/aqua)
@@ -515,4 +515,4 @@ See the [THIRD_PARTY_NOTICES](THIRD_PARTY_NOTICES) file for information about th
 
 **Contact for licensing inquiries:**
 - 📧 license@degensoft.com 
-- 📧 legal@degensoft.com
+- 📧 legal@degensofinquiriesies
